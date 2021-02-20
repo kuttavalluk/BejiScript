@@ -46,3 +46,5 @@ It is very easy to use and you'll probably have no problem using the script !
 
 ## Note
 Tested in latest version of Kali, Ubuntu and Windows (Works with Python 3.x only ,no version of Python 2 is supported.)
+Works fine with WSL on Windows.
+Docker Support will be added later.
