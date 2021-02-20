@@ -45,6 +45,6 @@ It is very easy to use and you'll probably have no problem using the script !
 - I used some code from a repository created by : [**ricardojoserf**](https://github.com/ricardojoserf)
 
 ## Note
-Tested in latest version of Kali, Ubuntu and Windows (Works with Python 3.x only ,no version of Python 2 is supported.)
-Works fine with WSL on Windows.
-Docker Support will be added later.
+- Tested in latest version of Kali, Ubuntu and Windows (Works with Python 3.x only ,no version of Python 2 is supported.)
+- Works fine with WSL on Windows.
+- Docker Support will be added later.
