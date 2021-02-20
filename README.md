@@ -53,5 +53,5 @@ It is very easy to use and you'll probably have no problem using the script !
 - Works fine with WSL on Windows.
 - Docker Support will be added later.
 ### Find me on :
-[**Instagram**](https://www.instagram.com/kutta_valluk)
-[**Facebook**](https://www.facebook.com/kutta.valluk)
+- [**Instagram**](https://www.instagram.com/kutta_valluk)
+- [**Facebook**](https://www.facebook.com/kutta.valluk)
