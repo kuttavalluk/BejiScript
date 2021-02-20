@@ -4,6 +4,8 @@
   <img src="ss.png">
 </p>
 
+BejiScript user friendly Instagram Account Dictionary Attack script
+
 ### Features
 
 - Beginner freindly
