@@ -11,7 +11,16 @@
 
 ### Installation
 
-- Just, Clone this git repository :
+- Install Python and Git :
+- (For debian based OS, for termux run command without sudo and replace apt with pkg. For windows users you can get python from microsoft store) 
+```
+$ sudo apt install python3 -y && sudo apt install git -y
+```
+- Install the Instapy Python module :
+```
+$ pip3 install instapy
+```
+- Just Clone this git repository :
 ```
 $ git clone https://github.com/kuttavalluk/BejiScript
 ```
@@ -21,9 +30,9 @@ $ git clone https://github.com/kuttavalluk/BejiScript
 $ cd BejiScript
 ```
 -  Write the target insta account in the userlist.txt file (default wordlist pw.txt)
--  Run the script :
+-  Run the script (for termux use python instead of python3) :
 ```
-$ python main.py
+$ python3 main.py
 ```
 It is very easy to use and you'll probably have no problem using the script !
 
@@ -32,6 +41,7 @@ It is very easy to use and you'll probably have no problem using the script !
 **`BejiScript`** requires following programs to run properly - 
 - `Python 3.x`
 - `git`
+- `Instapy`
 
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali`**, **`Termux`**, **`OSX/MacOS`**
 
