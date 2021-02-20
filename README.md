@@ -66,11 +66,7 @@ It is very easy to use and you'll probably have no problem using the script !
 
 ### Special Thanks :
 
-- [**Aditya Shakya**](https://github.com/adi1090x)
-- [**TheLinuxChoice**](https://twitter.com/linux_choice)
-- [**DarksecDevelopers**](https://github.com/DarksecDevelopers)
-- [**Moises Tapia**](https://github.com/MoisesTapia)
-
+- [**ricardojoserf**](https://github.com/ricardojoserf)
 
 ### Find Me on :
 <p align="left">
