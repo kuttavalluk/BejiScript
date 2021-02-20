@@ -3,7 +3,7 @@
 ### Features
 
 - Beginers freindly
-- Not very fast but can perform a dictionary attack without any problem.
+- Not very fast but can perform a dictionary attack without problems.
 
 ### Installation
 
