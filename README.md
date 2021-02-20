@@ -42,7 +42,7 @@ It is very easy to use and you'll probably have no problem using the script !
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Aknowledgement :
+## Acknowledgement :
 - I used some code from a repository created by : [**ricardojoserf**](https://github.com/ricardojoserf)
 
 ## Note
