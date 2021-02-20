@@ -33,15 +33,6 @@ It is very easy to use and you'll probably have no problem using the script !
 
 > Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali`**, **`Termux`**, **`OSX/MacOS`**
 
-##
-
-<h3 align="center">
-:: Workflow ::
-</h3>
-<p align="center">
-<img src=".imgs/wf.gif"/>
-</p>
-
 ## Acknowledgement :
 - I used some code from a repository created by : [**ricardojoserf**](https://github.com/ricardojoserf)
 
