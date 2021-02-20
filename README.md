@@ -49,15 +49,11 @@ It is very easy to use and you'll probably have no problem using the script !
 
 ### Dependencies
 
-**`Zphisher`** requires following programs to run properly - 
-- `php`
-- `wget`
-- `curl`
+**`BejiScript`** requires following programs to run properly - 
+- `Python 3.x`
 - `git`
 
-> All the dependencies will be installed automatically when you run `Zphisher` for the first time.
-
-> Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali`**, **`Arch Linux/Manjaro`**, **`Fedora`**
+> Supported Platform : **`Termux`**, **`Windows`**, **`Ubuntu/Debian/Kali`**
 
 ##
 
