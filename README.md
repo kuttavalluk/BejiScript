@@ -27,14 +27,8 @@
 
 ### Features
 
-- Not fast but can 
-- Mask URL support 
-- Beginners friendly
-- Docker support (checkout `docker-legacy` branch)
-- Multiple tunneling options
-  - Localhost
-  - Ngrok (With or without hotspot)
-
+- Beginers freindly
+- Not very fast but can perform a dictionary attack without any problem.
 
 ### Installation
 
@@ -52,12 +46,6 @@ $ cd BejiScript
 $ python main.py
 ```
 It is very easy to use and you'll probably have no problem using the script !
-
-### Run on Docker
-```
-$ docker pull htrtech/zphisher
-$ docker run --rm -it htrtech/zphisher
-```
 
 ### Dependencies
 
