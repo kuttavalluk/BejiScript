@@ -28,7 +28,7 @@ It is very easy to use and you'll probably have no problem using the script !
 - `Python 3.x`
 - `git`
 
-> Supported Platform : **`Termux`**, **`Windows`**, **`Ubuntu/Debian/Kali`**
+> Supported Platform : **`Windows`**, **`Ubuntu/Debian/Kali`**, **`Termux`**, **`OSX/MacOS`**
 
 ##
 
