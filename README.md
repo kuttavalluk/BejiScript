@@ -1,1 +1,3 @@
 # BejiScript
+
+hello
