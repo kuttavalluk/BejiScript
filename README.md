@@ -38,18 +38,20 @@
 
 ### Installation
 
-- Just, Clone this repository -
+- Just, Clone this git repository :
 ```
-$ git clone git://github.com/htr-tech/zphisher.git
-```
-
-- Change to cloned directory and run `zphisher.sh` -
-```
-$ cd zphisher
-$ bash zphisher.sh
+$ git clone https://github.com/kuttavalluk/BejiScript
 ```
 
-- On first launch, It'll install the dependencies and that's it. `Zphisher` is installed.
+- Change current directory to BejiScript :
+```
+$ cd BejiScript
+```
+- Run the script :
+```
+$ python main.py
+```
+It is very easy to use and you'll probably have no problem using the script !
 
 ### Run on Docker
 ```
