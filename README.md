@@ -64,7 +64,7 @@ It is very easy to use and you'll probably have no problem using the script !
 <img src=".imgs/wf.gif"/>
 </p>
 
-### Special Thanks :
+### Alot of credits to :
 
 - [**ricardojoserf**](https://github.com/ricardojoserf)
 
