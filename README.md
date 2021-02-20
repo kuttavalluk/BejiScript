@@ -1,6 +1,6 @@
 # BejiScript
 
-<!-- Zphisher -->
+<!-- zphisher -->
 
 <p align="center">
   <img src=".imgs/logo.png">
@@ -21,13 +21,13 @@
   <img src="https://img.shields.io/badge/Written%20In-Bash-cyan?style=flat-square">
 </p>
 
-<p align="center">A beginners friendly, Automated phishing tool with 30+ templates.</p>
+<p align="center">A beginners friendly, Instagram Dictionary Attack python script.</p>
 
 ##
 
 ### Features
 
-- Latest and updated login pages.
+- Not fast but can 
 - Mask URL support 
 - Beginners friendly
 - Docker support (checkout `docker-legacy` branch)
