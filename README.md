@@ -20,7 +20,7 @@ $ git clone https://github.com/kuttavalluk/BejiScript
 ```
 $ cd BejiScript
 ```
--  Write the target insta account in the uerlist.txt file (default wordlist pw.txt)
+-  Write the target insta account in the userlist.txt file (default wordlist pw.txt)
 -  Run the script :
 ```
 $ python main.py
