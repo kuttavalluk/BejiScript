@@ -6,7 +6,7 @@
 
 ### Features
 
-- Beginers freindly
+- Beginner freindly
 - Not very fast but can perform a dictionary attack without problems.
 
 ### Installation
@@ -52,3 +52,6 @@ It is very easy to use and you'll probably have no problem using the script !
 - Tested in latest version of Kali, Ubuntu and Windows (Works with Python 3.x only ,no version of Python 2 is supported.)
 - Works fine with WSL on Windows.
 - Docker Support will be added later.
+### Find me on :
+[**Instagram**](https://www.instagram.com/kutta_valluk)
+[**Facebook**](https://www.facebook.com/kutta.valluk)
