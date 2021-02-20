@@ -1,7 +1,5 @@
 # BejiScript
 
-##
-
 ### Features
 
 - Beginers freindly
