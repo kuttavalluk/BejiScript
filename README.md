@@ -16,7 +16,7 @@ BejiScript user friendly Instagram Account Dictionary Attack script
 - Install Python and Git :
 - (For debian based OS, for termux run command without sudo and replace apt with pkg. For windows users you can get python from microsoft store) 
 ```
-$ sudo apt install python3 -y && sudo apt install git -y
+$ sudo apt install python3 -y && sudo apt install python3-pip -y && sudo apt install git -y
 ```
 - Install the Instapy Python module :
 ```
